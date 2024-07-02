@@ -63,7 +63,7 @@ function DefaultLayout(props) {
 
            
 
-           <p>SHEY</p>
+           <p>VIVIN</p>
           
       </div>
     </div>
